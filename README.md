@@ -1,7 +1,8 @@
 # 🚦 Otimizador de Rotas para Transporte — Projeto de Portfólio
 *Visualização e comparação de algoritmos de caminho mínimo aplicados a malhas viárias sintéticas.*
 
-![Exemplo de rota](img/grafo.png)
+![Exemplo de rota](grafo.png)
+
 
 ---
 
