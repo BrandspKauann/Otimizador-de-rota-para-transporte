@@ -27,7 +27,7 @@ Dado um grafo ponderado que modela uma malha viária simplificada, encontrar o *
 
 ---
 
-## 📐 Formulação matemática (sempre incluída)
+## 📐 Formulação matemática 
 
 **Dados**
 - Grafo ponderado \( G = (V, E) \)
